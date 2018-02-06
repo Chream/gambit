@@ -665,3 +665,4 @@ enlarge the window if it is too small."
 (provide 'gambit)
 
 ;;;----------------------------------------------------------------------------
+;;; gambit.el ends here.
